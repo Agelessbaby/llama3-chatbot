@@ -1,7 +1,7 @@
 package main
 
 import (
-	"AIChatBot/handler"
+	"github.com/Agelessbaby/llama3-chatbot/handler"
 	"github.com/gin-gonic/gin"
 )
 

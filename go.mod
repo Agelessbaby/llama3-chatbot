@@ -1,4 +1,4 @@
-module AIChatBot
+module github.com/Agelessbaby/llama3-chatbot
 
 go 1.22
 
